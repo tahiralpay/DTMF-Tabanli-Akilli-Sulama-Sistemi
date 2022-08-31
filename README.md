@@ -6,8 +6,8 @@ Hocam DR. ÖĞR. ÜYESİ Murat FURAT'ın destekleriyle İnönü Üniversitesinin
 * https://dergipark.org.tr/tr/pub/bbd/issue/65392/990114
 
 ## Arduino İçin Gerekli Kütüphaneler
-``https://www.arduino.cc/reference/en/libraries/dht-sensor-library/``
-``https://www.arduino.cc/reference/en/libraries/liquidcrystal-i2c/``
+``https://www.arduino.cc/reference/en/libraries/dht-sensor-library/``                                  
+``https://www.arduino.cc/reference/en/libraries/liquidcrystal-i2c/``                                           
 ``https://www.arduino.cc/reference/en/libraries/l293/``                      
 
 ## Devre Şeması
